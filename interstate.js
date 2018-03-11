@@ -3,7 +3,7 @@
  * 
  * @version 1.2.1
  * @author floko84@gmail.com
- * @see <a href="https://github.com/floko84/interstate">Repository</a>
+ * @see <a href="https://github.com/floko84/interstate.js">Repository</a>
  * 
  * <pre><code>
  * var switch = new Interstate('on');
